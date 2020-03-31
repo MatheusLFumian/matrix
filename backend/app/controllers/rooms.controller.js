@@ -33,6 +33,8 @@ const createRoomFileSync = () => {
     "Comercial",
     "Atendimento",
     "Marketing",
+    "Poof",
+    "Varanda",
   ];
 
   for (const niceName of niceNames) {
